@@ -1,9 +1,13 @@
 # Attendance_Management_System
 
 🌐 Live Demo
-🔗 Click here to view the web app
+🔗 [Click here to view the web app](https://sohamshrawankar.github.io/Attendance_Management_System/)
 (deployed project link)
+user_name :- abc_teacher@gmail.com
+password :- teacher123 (for teacher) 
 
+user_name :- xyz_student@gmail.com
+password :- student123
 🎯 Features
 
 
