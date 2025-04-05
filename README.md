@@ -7,7 +7,9 @@ user_name :- abc_teacher@gmail.com
 password :- teacher123 (for teacher) 
 
 user_name :- xyz_student@gmail.com
-password :- student123
+password :- student123 (for students) 
+
+
 🎯 Features
 
 
