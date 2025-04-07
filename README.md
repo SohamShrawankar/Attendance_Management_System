@@ -2,7 +2,7 @@
 
 A modern, device-aware web-based attendance tracking solution built for teachers and students with QR code authentication, smart dashboards, and real-time data handling.
 
-🌐 **Live Demo**: [🔗 Click here to view the web app](#)  
+🌐 **Live Demo**: 🔗[ Click here to view the web app](#) ] https://sohamshrawankar.github.io/Attendance_Management_System/ 
 > **Login Credentials**  
 > 👩‍🏫 **Teacher:**  
 > - Email: `abc_teacher@gmail.com`  
