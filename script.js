@@ -12,11 +12,11 @@
         ];
 
         let students = [
-            { id: 1, rollNo: "CS101", admissionNo: "ADM001", firstName: "John", lastName: "Doe", class: "B.Tech", section: "CSE-A", email: "john.doe@example.com", phone: "1234567890", status: "active", profileImg: "https://randomuser.me/api/portraits/men/1.jpg", attendance: { present: 18, absent: 2 } },
-            { id: 2, rollNo: "CS102", admissionNo: "ADM002", firstName: "Jane", lastName: "Smith", class: "B.Tech", section: "CSE-A", email: "jane.smith@example.com", phone: "9876543210", status: "active", profileImg: "https://randomuser.me/api/portraits/women/2.jpg", attendance: { present: 19, absent: 1 } },
-            { id: 3, rollNo: "CS103", admissionNo: "ADM003", firstName: "Robert", lastName: "Johnson", class: "B.Tech", section: "CSE-A", email: "robert.j@example.com", phone: "4561237890", status: "active", profileImg: "https://randomuser.me/api/portraits/men/3.jpg", attendance: { present: 15, absent: 5 } },
-            { id: 4, rollNo: "CS104", admissionNo: "ADM004", firstName: "Emily", lastName: "Williams", class: "B.Tech", section: "CSE-A", email: "emily.w@example.com", phone: "7894561230", status: "noc", profileImg: "https://randomuser.me/api/portraits/women/4.jpg", attendance: { present: 10, absent: 10 } },
-            { id: 5, rollNo: "CS105", admissionNo: "ADM005", firstName: "Michael", lastName: "Brown", class: "B.Tech", section: "CSE-A", email: "michael.b@example.com", phone: "3216549870", status: "active", profileImg: "https://randomuser.me/api/portraits/men/5.jpg", attendance: { present: 20, absent: 0 } }
+            { id: 1, rollNo: "CS101", admissionNo: "ADM001", firstName: "Soham", lastName: "Shrawankar", class: "B.Tech", section: "CSE-A", email: "john.doe@example.com", phone: "1234567890", status: "active", profileImg: "https://randomuser.me/api/portraits/men/1.jpg", attendance: { present: 18, absent: 2 } },
+            { id: 2, rollNo: "CS102", admissionNo: "ADM002", firstName: "Advait", lastName: "Kulkarni", class: "B.Tech", section: "CSE-A", email: "jane.smith@example.com", phone: "9876543210", status: "active", profileImg: "https://randomuser.me/api/portraits/women/2.jpg", attendance: { present: 19, absent: 1 } },
+            { id: 3, rollNo: "CS103", admissionNo: "ADM003", firstName: "Aryan", lastName: "Tamhane", class: "B.Tech", section: "CSE-A", email: "robert.j@example.com", phone: "4561237890", status: "active", profileImg: "https://randomuser.me/api/portraits/men/3.jpg", attendance: { present: 15, absent: 5 } },
+            { id: 4, rollNo: "CS104", admissionNo: "ADM004", firstName: "Siddhant", lastName: "Rajurkar", class: "B.Tech", section: "CSE-A", email: "emily.w@example.com", phone: "7894561230", status: "noc", profileImg: "https://randomuser.me/api/portraits/women/4.jpg", attendance: { present: 10, absent: 10 } },
+            { id: 5, rollNo: "CS105", admissionNo: "ADM005", firstName: "Aryawardhan", lastName: "Deshmukh", class: "B.Tech", section: "CSE-A", email: "michael.b@example.com", phone: "3216549870", status: "active", profileImg: "https://randomuser.me/api/portraits/men/5.jpg", attendance: { present: 20, absent: 0 } }
         ];
 
         let attendanceRecords = [
