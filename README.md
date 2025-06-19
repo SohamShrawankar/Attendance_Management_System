@@ -1,4 +1,4 @@
-# 📚 Attendance Management System
+# 📚 Attendance Management System { FRONT-END }
 
 A modern, device-aware web-based attendance tracking solution built for teachers and students with QR code authentication, smart dashboards, and real-time data handling.
 
