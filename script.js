@@ -298,7 +298,7 @@
                 studentDetails.textContent = `Roll No: ${students.find(s => s.id === currentUser.studentId)?.rollNo || 'N/A'} | Class: B.Tech CSE`;
             }
             
-            showToast(`Welcome, ${currentUser.name}!`);
+            showToast("Welcome, Teacher!");
         }
 
         // Handle Logout
